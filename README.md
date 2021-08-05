@@ -1,5 +1,10 @@
 # AppPiano
 
+![app-piano](https://user-images.githubusercontent.com/53599271/128397000-0bc8393a-ba40-4a79-b6d3-3751fed45aff.PNG)
+
+![app-piano-mobile](https://user-images.githubusercontent.com/53599271/128397009-bb5fe4d9-0bec-48d7-83a3-2835d80e7978.PNG)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
